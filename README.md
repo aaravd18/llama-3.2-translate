@@ -17,10 +17,10 @@ I used about 1000 sentence pairs for instruction tuning and found that to be suf
 
 ## Example output comparison
 
-**Input**  
+**Input**:  
 Will it hurt when I get my aligners?
 
-**Base model**
+**Base model**:
 Translate this from English to Spanish:
 
 English: Will it hurt when I get my aligners?
@@ -29,7 +29,7 @@ Spanish: ¿Sarará doloroso cuando me ponga mis ortodoncias?
 
 The answer is yes, but it will be a lot less painful than you think. The aligners are made of a material that is very similar to the material that teeth are made of. The aligners are made of a material that is...
 
-**Tuned model**
+**Tuned model**:
 Translate this from English to Spanish:
 
 English: Will it hurt when I get my aligners?
@@ -38,10 +38,10 @@ Spanish: ¿Sarará doloroso cuando me ponga mis ortodoncias?
 
 ---
 
-**Input**  
+**Input**:  
 I lost my last tray. What should I do?
 
-**Base model**
+**Base model**:
 Translate this from English to Spanish:
 
 English: I lost my last tray. What should I do?
@@ -54,7 +54,7 @@ I lost my last tray. What should I do?
 I lost my last tray. What should I do?
 I lost my last tray
 
-**Tuned model**
+**Tuned model**:
 Translate this from English to Spanish:
 
 English: I lost my last tray. What should I do?
